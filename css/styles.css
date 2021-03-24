@@ -67,6 +67,7 @@ nav ul li {
 nav.flexbox {
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 img.cotton {
@@ -95,17 +96,6 @@ nav a {
 
 /* Flexbox styles ===================================== */
 
-/* .flex {
-    display: flex;
-}
-
-flex-js-sb {
-    justify-content: space-between;
-}
-
-flex-ai-c {
-    align-items: center;
-} */
 
 
 /* Media Queries =====================================*/
